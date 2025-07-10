@@ -1,0 +1,7 @@
+eng_type = IAE
+sharklet = YES
+321neo_config = NEO
+has_satcom = YES
+exit_Configuration = CLASSIC
+num_Extra_Fuel_Tanks = 0
+use_Imperial_Units = NO
