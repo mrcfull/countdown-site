@@ -1,5 +1,5 @@
 // components/Slots.tsx
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 const emojis = ['🍒', '🍋', '🔔', '💎', '7️⃣'];
 
